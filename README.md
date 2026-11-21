@@ -1,5 +1,6 @@
 # undercover-word-imposter-privacy
 
-Privacy policy for the **Undercover: Word Impostor** Android app, published with GitHub Pages.
+Privacy policy and terms of service for the **Undercover: Word Impostor** Android app, published with GitHub Pages.
 
-Policy: [index.md](index.md)
+- Privacy policy: [index.md](index.md)
+- Terms of service: [terms.md](terms.md)
