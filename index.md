@@ -4,17 +4,17 @@ title: Privacy Policy — Undercover: Word Impostor
 
 # Privacy Policy — Undercover: Word Impostor
 
-_Last updated: October 30, 2026_
+_Last updated: November 21, 2026_
 
 This policy explains how the Undercover: Word Impostor mobile app ("the app") handles information.
 
 ## 1. Offline gameplay
 
-The app runs on your device. Role assignments, secret words and voting work without an internet connection. The only network activity comes from advertising (see section 4).
+The app runs on your device. Role assignments, secret words and voting work without an internet connection. When you are online, the app uses the network for ads (section 4), anonymous usage statistics (section 5) and the "More apps" list (section 6).
 
 ## 2. Information we collect
 
-We (the developer) do not collect, receive or store any personal information. There are no accounts, and we have no servers that receive your data.
+There are no accounts, and we (the developer) run no servers that receive your data. We never collect your name, player names, custom words or contact details. The only data we receive is the anonymous usage statistics described in section 5.
 
 ## 3. Local device storage
 
@@ -32,14 +32,30 @@ This data is used to serve, measure and personalise ads and to prevent fraud. In
 
 Learn how Google uses this data: <https://policies.google.com/technologies/partner-sites>
 
-## 5. Children's privacy
+## 5. Usage statistics (Google Analytics for Firebase)
+
+To learn which features are used and to fix problems, the app sends usage events to Google Analytics for Firebase:
+
+- game started or finished (number of players, word category, winning side, number of rounds)
+- word packs unlocked
+- taps in the "More apps" list
+
+Google also collects an app-instance identifier, device model, operating system, app version, language, approximate location (country/region derived from IP address) and, where available, the advertising ID. These statistics are not used to identify you, and Google keeps them for a limited period under the Google Analytics data retention settings.
+
+Learn how Google uses this data: <https://policies.google.com/technologies/partner-sites>
+
+## 6. "More apps" list
+
+Once a day the app downloads a list of our other apps from pyush.github.io (hosted by GitHub, which receives your IP address as part of the request). The app checks on your device which of those apps are already installed, to show "Open" instead of "Get"; this check never leaves your device. Tapping an app opens its Google Play page.
+
+## 7. Children's privacy
 
 The app is not directed at children under 13, and we do not knowingly collect personal information from them.
 
-## 6. Changes to this policy
+## 8. Changes to this policy
 
 We may update this policy from time to time. Changes will be posted on this page with a new "Last updated" date.
 
-## 7. Contact
+## 9. Contact
 
 Questions about this policy: **androidpyus@gmail.com**
