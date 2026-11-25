@@ -46,7 +46,7 @@ Learn how Google uses this data: <https://policies.google.com/technologies/partn
 
 ## 6. "More apps" list
 
-Once a day the app downloads a list of our other apps from pyush.github.io (hosted by GitHub, which receives your IP address as part of the request). The app checks on your device which of those apps are already installed, to show "Open" instead of "Get"; this check never leaves your device. Tapping an app opens its Google Play page.
+Once a day the app downloads a list of our other apps from our website, ultimateplaystudio.com (formerly pyush.github.io; hosted by GitHub, which receives your IP address as part of the request). The app checks on your device which of those apps are already installed, to show "Open" instead of "Get"; this check never leaves your device. Tapping an app opens its Google Play page.
 
 ## 7. Children's privacy
 

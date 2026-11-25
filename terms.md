@@ -6,7 +6,7 @@ title: Terms of Service — Undercover: Word Impostor
 
 _Last updated: November 21, 2026_
 
-These terms apply to the Undercover: Word Impostor mobile app ("the app"), published on Google Play by Pyush Apps ("we"). By using the app you agree to them.
+These terms apply to the Undercover: Word Impostor mobile app ("the app"), published on Google Play by Ultimate Play Studio ("we"). By using the app you agree to them.
 
 ## 1. Entertainment licence
 
